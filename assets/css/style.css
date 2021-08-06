@@ -140,7 +140,7 @@
             background-size: cover;
             background-position: center;
             padding-top: 70px;
-            height: calc(100vh - 120px);
+            height: calc(100vh - 420px);
         }
         
         .container span {
